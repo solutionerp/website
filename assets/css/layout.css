@@ -40,7 +40,8 @@ body {
   margin-bottom: 30px;
 }
 
-label.error {
+label.error,
+.red {
   color: #ff5252;
 }
 
