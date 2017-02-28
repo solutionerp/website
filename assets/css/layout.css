@@ -1,0 +1,59 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+}
+
+.btn-primary {
+  background-color: #ff5252;
+  border-color: #ff5252
+}
+.btn-primary:hover {
+  background-color: #ff5252;
+  border-color: #ff5252
+}
+
+.btn-outline-primary {
+  border-color: #fff;
+  color: #fff;
+}
+.btn-outline-primary:hover {
+  border-color: #fff;
+  color: #fff;
+}
+
+.bg-red {
+  background-color: #ff5252;
+  color: #fff;
+}
+
+.callout {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 30px;
+}
+
+label.error {
+  color: #ff5252;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+@media screen and (min-width: 768px) {
+  .jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+}
